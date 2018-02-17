@@ -20,7 +20,7 @@ This notebook helps us generate gibberish text based on the book 2 states
 
 # Accessing DataFiles
 * Click on ***add data assets*** from the project home screen
-* Import your ***.csv*** data file
+* Import your ***2states.txt*** data file
 * From within the notebook, click the ***Find and add Data*** menu item on the top right
-* Find your dataset and select ***Insert Pandas Dataframe***
+* Find your dataset and select ***Insert StringIO Object***
 * use the assigned Data variable which can be seen in the ***second-bottom most line*** of the inserted code
